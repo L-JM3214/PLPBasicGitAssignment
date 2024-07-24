@@ -3,12 +3,14 @@
 This document outlines the steps and commands used for managing a Git repository, including setting up a repository, making changes, committing, and pushing to GitHub.
 
 Steps and Commands
-##1.Create a Remote Repository
+1.Create a Remote Repository
 Go to GitHub and create a new repository.
 Note the repository URL (e.g., https://github.com/your-username/your-repository.git).
+
 ###Initialize Local Directory
 Create a new directory for your project:
 mkdir your-project-directory
+
 ###Navigate to the directory:
 cd your-project-directory
 ###Initialize a new Git repository:
